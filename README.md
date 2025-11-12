@@ -25,9 +25,15 @@ Seção que exibe todas as denúncias de maus-tratos, abandono ou irregularidade
 
 <img width="1323" height="726" alt="image" src="https://github.com/user-attachments/assets/5b3e7496-cc1e-4b03-9b4c-46142f3fbc08" />
 
+🔍 4️⃣ Animais Perdidos
+
+Página voltada ao cadastro e acompanhamento de animais desaparecidos, ajudando a reunir famílias com seus pets por meio de informações compartilhadas.
 
 <img width="1359" height="732" alt="image" src="https://github.com/user-attachments/assets/824fa05b-31e1-404c-a774-ae509357663c" />
 
+🚫 5️⃣ CPF com Restrições de Adoção
+
+Tela que apresenta CPFs bloqueados no sistema, evitando que adotantes com histórico de irregularidades possam realizar novas adoções.
 
 <img width="1367" height="696" alt="image" src="https://github.com/user-attachments/assets/8f72aff2-81a0-4df0-9e1c-37f3ea4b5a9c" />
 
