@@ -15,12 +15,19 @@ Além de apoiar ações de resgate e acolhimento, promovemos a conscientização
 
 Tela responsável por verificar o cadastro e a situação de adotantes, permitindo confirmar se estão aptos a realizar adoções de acordo com as regras do sistema.
 
+
 ![Captura de tela 2025-11-12 182819](https://github.com/user-attachments/assets/ba0b8395-b9f2-426a-b562-65736015c225)
 
 
+⚠️ 3️⃣ Denúncias Registradas
+
+Seção que exibe todas as denúncias de maus-tratos, abandono ou irregularidades, permitindo ao administrador acompanhar, validar e tomar providências.
 
 <img width="1323" height="726" alt="image" src="https://github.com/user-attachments/assets/5b3e7496-cc1e-4b03-9b4c-46142f3fbc08" />
+
+
 <img width="1359" height="732" alt="image" src="https://github.com/user-attachments/assets/824fa05b-31e1-404c-a774-ae509357663c" />
+
 
 <img width="1367" height="696" alt="image" src="https://github.com/user-attachments/assets/8f72aff2-81a0-4df0-9e1c-37f3ea4b5a9c" />
 
